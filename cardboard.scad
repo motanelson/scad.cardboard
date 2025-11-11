@@ -27,8 +27,9 @@ module estrutura_principal() {
         translate([largura_visor/2, profundidade_visor-15, -1])
         scale([0.8, 1, 1])
         cylinder(h=7, r=30, $fn=50);
-translate([30, 25, -0.5]) cylinder(h=30, r=17, center=false, $fn=60);
-    translate([90, 25, -0.5]) cylinder(h=30, r=17, center=false, $fn=60);
+        translate([30, 25, -0.5]) cylinder(h=30, r=17, center=false, $fn=60);
+        translate([60, 25, -0.5]) cylinder(h=30, r=17, center=false, $fn=60);
+        translate([90, 25, -0.5]) cylinder(h=30, r=17, center=false, $fn=60);
     }
     
     // Laterais de suporte
