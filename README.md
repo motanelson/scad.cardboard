@@ -1,4 +1,5 @@
-# scad.cardboard
-cardbord style glasses to phone , printer 3d id velcro backing
+risc-v
+the open source of the elevtronics
 
 
+https://riscv.org/specifications/ratified/
