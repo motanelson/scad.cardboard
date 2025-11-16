@@ -2,4 +2,4 @@ risc-v
 the open source of the elevtronics
 
 
-https://riscv.org/specifications/ratified/
+https://riscv.org/developers/
