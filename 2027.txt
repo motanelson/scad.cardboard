@@ -1,5 +1,5 @@
                             2027
-      January               February               March          
+      janeiro               fevereiro               março          
 DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  
                 1  2      1  2  3  4  5  6      1  2  3  4  5  6  
  3  4  5  6  7  8  9   7  8  9 10 11 12 13   7  8  9 10 11 12 13  
@@ -8,7 +8,7 @@ DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA
 24 25 26 27 28 29 30  28                    28 29 30 31           
 31                                                                
 
-       April                  May                   June          
+       abril                  maio                 junho          
 DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  
              1  2  3                     1         1  2  3  4  5  
  4  5  6  7  8  9 10   2  3  4  5  6  7  8   6  7  8  9 10 11 12  
@@ -17,7 +17,7 @@ DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA
 25 26 27 28 29 30     23 24 25 26 27 28 29  27 28 29 30           
                       30 31                                       
 
-        July                 August              September        
+      julho                 agosto              setembro        
 DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  
              1  2  3   1  2  3  4  5  6  7            1  2  3  4  
  4  5  6  7  8  9 10   8  9 10 11 12 13 14   5  6  7  8  9 10 11  
@@ -26,7 +26,7 @@ DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA
 25 26 27 28 29 30 31  29 30 31              26 27 28 29 30        
                                                                   
 
-      October               November              December        
+      outubro               novembro              dezembro        
 DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  DM SG TR QR QT SX SA  
                 1  2      1  2  3  4  5  6            1  2  3  4  
  3  4  5  6  7  8  9   7  8  9 10 11 12 13   5  6  7  8  9 10 11  
